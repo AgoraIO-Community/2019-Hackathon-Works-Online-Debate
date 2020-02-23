@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2dac9f1-f145-41d0-936e-a4ef4772d074" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Bam1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/index/index-old.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/index/index-old.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/schedule/schedule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/schedule/schedule.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-md5/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-md5/src/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/accordion.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/actionSheet.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/animation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/avatar.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/baseType.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/button.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/card.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/checkbox.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/curtain.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/divider.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/drawer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/flex.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/floatButton.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/form.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/formItem.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/grid.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/icon.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/imagePicker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/input.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/layout.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/loading.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/menuList.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/message.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/modal.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/navBar.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/progress.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/radio.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/screenDrawer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/searchBar.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/select.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/shopBar.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/steps.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/swiper.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/swiperAction.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/switch.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/tabBar.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/tabs.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/tag.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/text.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/timeline.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/timer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/tip.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/titleBar.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/verticalTab.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/@types/verticalTabCell.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/actionSheet/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/card/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/curtain/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/floatButton/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/form/formItem/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/imagePicker/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/input/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/message/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/searchBar/searchReault/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/swiperAction/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/tabs/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/text/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/tip/h5/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/tip/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/components/verticalTab/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/h5/style/vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/style/animation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/style/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/style/drawer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/style/h5.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/style/icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/style/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/style/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/style/vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/accordion/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/actionSheet/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/actionSheet/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/animation/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/avatar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/button/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/card/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/card/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/checkbox/h5/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/checkbox/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/curtain/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/curtain/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/divider/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/drawer/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/flex/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/floatButton/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/floatButton/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/form/context.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/form/formItem/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/form/formItem/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/form/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/grid/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/icon/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/imagePicker/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/imagePicker/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/input/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/input/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/layout/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/loading/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/menuList/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/message/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/message/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/modal/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/navBar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/progress/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/radio/components/ListRadio.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/radio/h5.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/radio/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/screenDrawer/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/searchBar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/searchBar/searchReault/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/searchBar/searchReault/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/select/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/shopBar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/steps/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/swiper/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/swiperAction/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/swiperAction/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/switch/h5/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/switch/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/tabBar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/tabs/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/tabs/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/tag/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/text/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/text/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/timeline/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/tip/h5/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/tip/h5/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/tip/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/tip/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/titleBar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/utils/area.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/utils/model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/utils/rules.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/verticalTab/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/verticalTab/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/components/verticalTab/verticalTabCell/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/dist/weapp/style/vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/mp-colorui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1R8MEOwRw9Hs5BbFwGjoZDRbCMz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/pages/schedule" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/pages/schedule" />
+      <recent name="$PROJECT_DIR$/client/src/pages/index" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2dac9f1-f145-41d0-936e-a4ef4772d074" name="Default Changelist" comment="" />
+      <created>1569044157235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569044157235</updated>
+      <workItem from="1569044158745" duration="5306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
