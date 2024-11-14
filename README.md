@@ -1,5 +1,11 @@
+# ⚠️ [ARCHIVED] 2019 Hackathon - Online Debate Challenge
+Please note that this repository is now in a read-only state and will not receive any further updates or support.
+
+For documentation and support, please visit the [Agora Documentation](https://docs.agora.io/en/).
+
+---
 *English|[中文](README.ZH.md)*
-# 2019-Hackathon-Works-Online-Debate
+
 # Introduction
 In order to solve the problem of the ugly UI of traditional debate games and the fragmentation of various systems, this system is specially developed.
 The complete system includes:
